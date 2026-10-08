@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "basic-rust-template"
+name = "python-like"
 version = "0.0.0"

@@ -1,4 +1,4 @@
-use basic_rust_template::*;
+use python_like::*;
 
 #[test]
 fn test(){
